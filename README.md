@@ -1,4 +1,4 @@
-# Ideas de proyecto
+    # Ideas de proyecto
 
 *Ideas para el proyecto de **diseño de aplicaciones moviles** en 2024*
 
