@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contenedor_pricipal{
+    background-color: aquamarine;
+    width: calc(100% - 60px);
+    height: 400px;
+    margin: 200px auto;
+}
+.contenedor_secundario{
+    width: calc(100% - 30px);
+    height: 400px;
+    transform: translateY(-120px);
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.a{
+    background-color: aqua;
+    width: calc(100%/3 - 20px);
+    height: 100%;
+}
+.b{
+    background-color: green;
+    width: calc(100%/3 - 20px);
+    height: 100%;
+}
+.c{
+    background-color: violet;
+    width: calc(100%/3 - 20px);
+    height: 100%;
+}
